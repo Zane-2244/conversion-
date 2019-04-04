@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\type conversion\type conversion\bin\Debug\type conversion.exe.config
+C:\Users\Zane\source\repos\type conversion\type conversion\bin\Debug\type conversion.exe
+C:\Users\Zane\source\repos\type conversion\type conversion\bin\Debug\type conversion.pdb
+C:\Users\Zane\source\repos\type conversion\type conversion\obj\Debug\type conversion.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\type conversion\type conversion\obj\Debug\type conversion.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\type conversion\type conversion\obj\Debug\type conversion.exe
+C:\Users\Zane\source\repos\type conversion\type conversion\obj\Debug\type conversion.pdb
